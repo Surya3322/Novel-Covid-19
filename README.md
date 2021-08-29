@@ -17,7 +17,3 @@ Confirmed - Cumulative number of confirmed cases till that date
 Deaths - Cumulative number of of deaths till that date
 Recovered - Cumulative number of recovered cases till that date
 2019_ncov_data.csv
-This is older file and is not being updated now. Please use the covid_19_data.csv file
-Added two new files with individual level information
-COVID_open_line_list_data.csv
-COVID19_line_list_data.csv
